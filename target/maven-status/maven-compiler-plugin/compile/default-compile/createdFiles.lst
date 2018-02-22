@@ -1,0 +1,5 @@
+com\lester\handson\Application.class
+com\lester\handson\ApplicationConfig$JerseyConfig.class
+com\lester\handson\rest\Customer.class
+com\lester\handson\ApplicationConfig.class
+com\lester\handson\rest\CustomerRest.class
