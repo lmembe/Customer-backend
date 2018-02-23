@@ -11,7 +11,7 @@ public class HelloSpringBootDockersApplication {
 
 	@RequestMapping("/hello")
 	public String sayHello() {
-		return "Hello Docker World";
+		return "Hello Docker World It Has worked with Git";
 	}
 	
 	public static void main(String[] args) {
